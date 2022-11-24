@@ -1,0 +1,114 @@
+{
+    "Records": [
+        {
+            "keywords": "rose blackpink live stage",
+            "limit": 100,
+            "print_urls": "true",
+            "size": "medium",
+            "type": "face",
+            "time": "past-year",
+            "language": "English",
+            "output_directory": "data/crawl_data/medium"
+        },
+        {
+            "keywords": "lisa blackpink live stage",
+            "limit": 100,
+            "print_urls": "true",
+            "size": "medium",
+            "type": "face",
+            "time": "past-year",
+            "language": "English",
+            "output_directory": "data/crawl_data/medium"
+        },
+        {
+            "keywords": "jennie blackpink live stage",
+            "limit": 100,
+            "print_urls": "true",
+            "size": "medium",
+            "type": "face",
+            "time": "past-year",
+            "language": "English",
+            "output_directory": "data/crawl_data/medium"
+        },
+        {
+            "keywords": "jisoo blackpink live stage",
+            "limit": 100,
+            "print_urls": "true",
+            "size": "medium",
+            "type": "face",
+            "time": "past-year",
+            "language": "English",
+            "output_directory": "data/crawl_data/medium"
+        },
+        {
+            "keywords": "v bts live stage",
+            "limit": 100,
+            "print_urls": "true",
+            "size": "medium",
+            "type": "face",
+            "time": "past-year",
+            "language": "English",
+            "output_directory": "data/crawl_data/medium"
+        },
+        {
+            "keywords": "jungkook bts live stage",
+            "limit": 100,
+            "print_urls": "true",
+            "size": "medium",
+            "type": "face",
+            "time": "past-year",
+            "language": "English",
+            "output_directory": "data/crawl_data/medium"
+        },
+        {
+            "keywords": "park ji-min bts live stage",
+            "limit": 100,
+            "print_urls": "true",
+            "size": "medium",
+            "type": "face",
+            "time": "past-year",
+            "language": "English",
+            "output_directory": "data/crawl_data/medium"
+        },
+        {
+            "keywords": "suga bts live stage",
+            "limit": 100,
+            "print_urls": "true",
+            "size": "medium",
+            "type": "face",
+            "time": "past-year",
+            "language": "English",
+            "output_directory": "data/crawl_data/medium"
+        },
+        {
+            "keywords": "jin bts live stage",
+            "limit": 100,
+            "print_urls": "true",
+            "size": "medium",
+            "type": "face",
+            "time": "past-year",
+            "language": "English",
+            "output_directory": "data/crawl_data/medium"
+        },
+        {
+            "keywords": "rm bts live stage",
+            "limit": 100,
+            "print_urls": "true",
+            "size": "medium",
+            "type": "face",
+            "time": "past-year",
+            "language": "English",
+            "output_directory": "data/crawl_data/medium"
+        },
+        {
+            "keywords": "j-hope bts live stage",
+            "limit": 100,
+            "print_urls": "true",
+            "size": "medium",
+            "type": "face",
+            "time": "past-year",
+            "language": "English",
+            "output_directory": "data/crawl_data/medium"
+        }
+    ]
+}
