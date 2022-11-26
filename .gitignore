@@ -1,2 +1,3 @@
-data/
+data/*
 cut_icon_img/
+env/
